@@ -39,7 +39,7 @@ class Order(object):
         self.created_at = created_at
 
     def __str__(self):
-        return '<Order id={id} reference_id={reference_id} item_skus={item_skus} total_amount={total_amount} currency={currency} created_at={created_at} />'.format(
+        return '<Order id={id} store_id={store_id} reference_id={reference_id} item_skus={item_skus} total_amount={total_amount} currency={currency} created_at={created_at} />'.format(
             **self.__dict__
         )
 
