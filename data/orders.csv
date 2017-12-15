@@ -1,6 +1,6 @@
 id;store name;items_sku;total amount;currency;created at
 1;us/new york;'ABC123;CEF9129';2.55;USD;2011-10-05T14:48:00.000
-2;se/stockholm;"ABC123;CEF9129";5;SEK;2017-12-15T15:12:00.042
+2;se/stockholm;'ABC123;CEF9129;IDI100';5;SEK;2017-12-15T15:12:00.042
 3;us_newyork;FIW0;5;SEK;2011-10-05T14:48:00.000
 4;se/stockholm;FIW0;5;SEK;2017-12-15T15:12:00.042Z
 5;;FIW0;5;SEK
