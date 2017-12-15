@@ -28,8 +28,6 @@ Database - data store
         batch_save(orders[])
 """
 
-import csv
-
 class Worker(object):
     def __init__(self, database):
         self.database = database
